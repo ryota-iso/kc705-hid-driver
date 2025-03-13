@@ -1,0 +1,17 @@
+*.ko
+*.o
+*.mod.o
+Module.symvers
+modules.order
+*.mod.c
+
+.tmp_versions/
+*~
+*.bak
+*.swp
+
+*.log
+
+
+.DS_Store
+Thumbs.db

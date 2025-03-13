@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "C_Cpp.clang_format_style": "{BasedOnStyle: Google, IndentWidth: 2, BreakBeforeBraces: Attach, TabWidth: 2, ColumnLimit: 150}",
+    "files.associations": {
+        "mman.h": "c"
+    },
+}
